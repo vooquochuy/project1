@@ -2,7 +2,8 @@
 Respository (Rep)
 Branch
 conflict
-
+Local
+Remote
 #Command
 -git init
 tạo rep

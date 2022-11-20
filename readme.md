@@ -5,16 +5,16 @@
 - conflict
 - Local
 - Remote
-  #Command
-  
+# Command
+
 - git init
-  tạo rep
+  >tạo rep
 - git status
-  hiển thị trạng thái
+  >hiển thị trạng thái
 - git add
-  chuẩn bị lưu file
+  >chuẩn bị lưu file
 - git reset
-  xóa bỏ add .
+  >xóa bỏ add .
 - git commit
 - git log
   xem lại
